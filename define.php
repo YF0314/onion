@@ -6,8 +6,8 @@
  * @author    Yukky
  * @copyright 2018~ @Xere_Yukky
  */
-define("HTACCESS", ".htaccess");
-define("APPNAME", "apiv1");
+//define("HTACCESS", ".htaccess");
+define("APPNAME", "apiv1"); // please replace your App name
 
 
 
