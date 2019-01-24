@@ -25,10 +25,10 @@ class RouteCheck
 					# code...
 					# Sushi is best
 				}else{
-					dead(403)
+					dead(403);
 				}
 			}else{
-				dead(403)
+				dead(403);
 			}
 		}elseif ($routes[1] == "brabra") {
 			# code...
