@@ -19,7 +19,7 @@ function route($text){
 }
 
 function dead($code){
-	$data = array('code' => $code, 'message' => constract($code));
+	$data = array('code' => $code, 'message' => constant($code));
 	echo json_encode($data,JSON_PRETTY_PRINT);
 	die();
 }
